@@ -1,0 +1,31 @@
+{
+  "name": "kobopay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint" : "./node_modules/.bin/eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QNNAKWUE/kobopay.git"
+  },
+  "author": "Queen Nnakwue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QNNAKWUE/kobopay/issues"
+  },
+  "homepage": "https://github.com/QNNAKWUE/kobopay#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.2.1"
+  }
+}
